@@ -26,6 +26,7 @@ p {
     font-weight: bolder;
     font-size: 20px;
     color: white;
+    margin-bottom:10px;
 }
 header input {
     width: 100%;
