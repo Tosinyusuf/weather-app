@@ -1,3 +1,3 @@
 # weather-app
 weather forecast
-view @
+view @https://tosinyusuf.github.io/weather-app/.
