@@ -52,7 +52,7 @@ function dateBuilder (d) {
 if ('serviceWorker' in navigator) {
     window.addEventListener('load',() => {
         navigator.serviceWorker
-        .register('./SW_weather_ap.js')
+        .register('../sw_weather_ap.js')
         .then(reg => console.log('Service Worker: Registered'))
         .catch(err => console.log(`service Worker Error: ${err}`))
     })
